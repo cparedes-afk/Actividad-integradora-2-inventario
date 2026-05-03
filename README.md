@@ -1,12 +1,14 @@
+## IMPORTANTE
 # Sistema de Inventario PHP
+
+Pagina de inicio para la gestión de ingreso de productos o edicción:  http://localhost/inventario-ventas/public/productos.php
 Sistema desarrollado con arquitectura por capas (MVC-ish) para Visual Studio Code.
 
 ### Requisitos
 - PHP 7.4+
 - MySQL (XAMPP/WAMP)
 
-# IMPORTANTE 
-## Ejecutar el archivo sql en donde se encuentra la base de datos nombre: sistema_inventario el archivo se adjuntará en la plataforma balckboard con el link del git hub 
+
 
 ### Instalación
 1. Importar `database/inventario.sql`.
