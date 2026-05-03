@@ -6,7 +6,7 @@ Sistema desarrollado con arquitectura por capas (MVC-ish) para Visual Studio Cod
 - MySQL (XAMPP/WAMP)
 
 # IMPORTANTE 
-## Ejecutar el archivo sql en donde se encuentra la base de datos nombre: sistema_inventario el archvivo se adjuntará en la plataforma balckboar con el link del git hub 
+## Ejecutar el archivo sql en donde se encuentra la base de datos nombre: sistema_inventario el archivo se adjuntará en la plataforma balckboard con el link del git hub 
 
 ### Instalación
 1. Importar `database/inventario.sql`.
