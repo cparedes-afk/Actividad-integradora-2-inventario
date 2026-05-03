@@ -11,12 +11,17 @@ Sistema desarrollado con arquitectura por capas (MVC-ish) para Visual Studio Cod
 3. Ejecutar `public/productos.php`.
 
 # /inventario-ventas
-├── /config       # Conexión a la base de datos (PDO)
-├── /controllers  # Lógica de control y validaciones
-├── /database     # Scripts SQL para la base de datos
-├── /models       # Lógica de acceso a datos (Clase Producto)
-├── /public       # Archivos accesibles (Vistas PHP y CSS)
-└── README.md     # Documentación del proyecto
+# ├── /config       # Conexión a la base de datos (PDO)
+
+# ├── /controllers  # Lógica de control y validaciones
+
+# ├── /database     # Scripts SQL para la base de datos
+
+# ├── /models       # Lógica de acceso a datos (Clase Producto)
+
+# ├── /public       # Archivos accesibles (Vistas PHP y CSS)
+
+# └── README.md     # Documentación del proyecto
 
 # Autor
 ## Carlos Andres Paredes Leon
