@@ -10,7 +10,7 @@ Sistema desarrollado con arquitectura por capas (MVC-ish) para Visual Studio Cod
 2. Configurar `config/database.php`.
 3. Ejecutar `public/productos.php`.
 
-# /inventario-ventas
+# inventario-ventas
 # ├── /config       # Conexión a la base de datos (PDO)
 
 # ├── /controllers  # Lógica de control y validaciones
