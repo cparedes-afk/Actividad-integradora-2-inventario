@@ -2,18 +2,22 @@
 # Sistema de Inventario PHP
 
 Pagina de inicio para la gestión de ingreso de productos o edicción:  http://localhost/inventario-ventas/public/productos.php
-Sistema desarrollado con arquitectura por capas (MVC-ish) para Visual Studio Code.
+
+
+# Autor
+## Carlos Andres Paredes Leon
+
+### Estudiante de la Universidad Tecnológica ECOTEC
+
 
 ### Requisitos
 - PHP 7.4+
 - MySQL (XAMPP/WAMP)
 
 
-
 ### Instalación
-1. Importar `database/inventario.sql`.
-2. Configurar `config/database.php`.
-3. Ejecutar `public/productos.php`.
+1. Importar `database/inventario.sql`. 
+3. Ejecutar `http://localhost/inventario-ventas/public/productos.php`.
 
 # inventario-ventas
 # ├── /config       # Conexión a la base de datos (PDO)
