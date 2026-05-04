@@ -31,9 +31,3 @@ Pagina de inicio para la gestión de ingreso de productos o edicción:  http://l
 # ├── /public       # Archivos accesibles (Vistas PHP y CSS)
 
 # └── README.md     # Documentación del proyecto
-
-# Autor
-## Carlos Andres Paredes Leon
-
-### Estudiante de la Universidad Tecnológica ECOTEC
-
