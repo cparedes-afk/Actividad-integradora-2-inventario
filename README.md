@@ -1,5 +1,14 @@
 ## IMPORTANTE
 # Sistema de Inventario PHP
+Importante debemos ingresar a la carpeta xampp, luego a la carpeta htdocs y crear una carpeta con el nombre: inventario-ventas el nombre de la carpeta debe ser talcual como se colocó anteriormente. Dentro de esa carpeta se guardarán las siguientes carpetas:
+config
+controllers
+database
+models
+public 
+
+Cada carpeta debe contener su archivo correspondiente tal cual se subió en el el Git Hub.
+
 
 Pagina de inicio para la gestión de ingreso de productos o edicción:  http://localhost/inventario-ventas/public/productos.php
 
